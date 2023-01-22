@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/atmoner/cosmos-bech32#readme",
   "dependencies": {
-    "bech32": "^2.0.0"
+    "bech32": "^2.0.0",
+    "chain-registry": "^1.6.1"
   }
 }
