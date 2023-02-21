@@ -1,21 +1,22 @@
 {
   "name": "cosmos-bech32",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Multiple Addresses",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atmoner/cosmos-bech32.git"
+    "url": "git+https://github.com/hard-nett/cosmos-bech32.git"
   },
-  "author": "atmoner",
+  "author": "hard-nett",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atmoner/cosmos-bech32/issues"
+    "url": "https://github.com/hard-nett/cosmos-bech32/issues"
   },
-  "homepage": "https://github.com/atmoner/cosmos-bech32#readme",
+  "homepage": "https://github.com/hard-nett/cosmos-bech32#readme",
   "dependencies": {
     "bech32": "^2.0.0",
     "chain-registry": "^1.6.1"
